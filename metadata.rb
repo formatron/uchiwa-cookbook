@@ -1,3 +1,6 @@
 name 'formatron_uchiwa'
 version '0.1.0'
+description 'Formatron Uchiwa cookbook'
+source_url 'https://github.com/formatron/uchiwa-cookbook'
+issues_url 'https://github.com/formatron/uchiwa-cookbook/issues'
 supports 'ubuntu'
